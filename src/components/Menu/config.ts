@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.sweetswap.finance/#/swap',
+        href: 'http://54.70.188.141:43071/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.sweetswap.finance/#/pool',
+        href: 'http://54.70.188.141:43071/#/pool',
       },
     ],
   },
