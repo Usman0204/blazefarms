@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '/',
+    href: 'https://blazeswap.finance/',
   },
   {
     label: 'Trade',
@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://54.70.188.141:39555/#/swap',
+        href: 'https://exchange.blazeswap.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://54.70.188.141:39555/#/pool',
+        href: 'https://exchange.blazeswap.finance/#/pool',
       },
     ],
   },
