@@ -4,7 +4,7 @@ import { FarmConfig, QuoteToken } from './types'
 const farms: FarmConfig[] = [
   {
     pid: 0,
-    lpSymbol: 'BLAZE',
+    lpSymbol: 'TBT',
     lpAddresses: {
       97: '0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4',
       56: '0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4',
@@ -19,12 +19,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 1,
-    lpSymbol: 'BLAZE-BNB LP',
+    lpSymbol: 'TBT-BNB LP',
     lpAddresses: {
       97: '0xeeacDfBC337BF3CaFecF7b6726DD21fB4e8abD74',
       56: '0xeeacDfBC337BF3CaFecF7b6726DD21fB4e8abD74',
     },
-    tokenSymbol: 'BLAZE',
+    tokenSymbol: 'TBT',
     tokenAddresses: {
       97: '0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4',
       56: '0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4',
@@ -49,12 +49,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 3,
-    lpSymbol: 'BLAZE-BUSD LP',
+    lpSymbol: 'TBT-BUSD LP',
     lpAddresses: {
       97: '0xF52be08D8a3ee7A7C1d8591D3E3f8D6A22019121',
       56: '0xF52be08D8a3ee7A7C1d8591D3E3f8D6A22019121',
     },
-    tokenSymbol: 'BLAZE',
+    tokenSymbol: 'TBT',
     tokenAddresses: {
       97: '0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4',
       56: '0xb36b5716CC186Ae16696De2953ae56DfaFCC23c4',

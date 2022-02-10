@@ -37,10 +37,10 @@ const Farm: React.FC = () => {
       <Hero>
         <div>
           <Heading as="h1" size="xxl" mb="16px" color="#FF9300">
-            {TranslateString(738, 'Pudding Pool')}
+            {TranslateString(738, 'TBT Pool')}
           </Heading>
           <ul>
-            <li>{TranslateString(580, 'Stake CANDY to earn new tokens.')}</li>
+            <li>{TranslateString(580, 'Stake TBT to earn new tokens.')}</li>
             <li>{TranslateString(486, 'You can unstake at any time.')}</li>
             <li>{TranslateString(406, 'Rewards are calculated per block.')}</li>
           </ul>
